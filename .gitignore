@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# Generated data
+data/
+
+# Python cache
+__pycache__/
+
+# Compiled Python files
+*.pyc
