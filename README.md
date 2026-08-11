@@ -1,4 +1,4 @@
-# SM Agent
+# SM Agent (Structured Memory Agent)
 
 A conversational AI agent (ReAct architecture, LangChain) with two kinds of
 memory — short-term memory that's always visible to the model, and
